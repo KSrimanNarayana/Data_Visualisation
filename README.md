@@ -4,11 +4,8 @@ Analyze the data and generate insights that could help Netflix in deciding which
 The dataset provided  consists of a list of all the TV shows/movies available on Netflix:
 
       -Show_id: Unique ID for every Movie / Tv Show
-      
       -Type: Identifier - A Movie or TV Show
-      
       -Title: Title of the Movie / Tv Show
-      
       -Director: Director of the Movie
       -Cast: Actors involved in the movie/show
       -Country: Country where the movie/show was produced
