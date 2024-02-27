@@ -36,12 +36,12 @@ Note: Pre-processing involves unnesting of the data in columns like Actor, Direc
 
 6. Insights based on Non-Graphical and Visual Analysis.
 
-6.1 Comments on the range of attributes
+6.1 Comments on the range of attributes.
 
-6.2 Comments on the distribution of the variables and relationship between them
+6.2 Comments on the distribution of the variables and relationship between them.
 
-6.3 Comments for each univariate and bivariate plot
+6.3 Comments for each univariate and bivariate plot.
 
-7. Business Insights - includes patterns observed in the data along with what you can infer from it
+7. Business Insights - includes patterns observed in the data along with what you can infer from it.
 
 8. Recommendations - Actionable items for business.
