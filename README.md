@@ -45,3 +45,11 @@ Note: Pre-processing involves unnesting of the data in columns like Actor, Direc
 7. Business Insights - includes patterns observed in the data along with what you can infer from it.
 
 8. Recommendations - Actionable items for business.
+
+
+![image](https://github.com/user-attachments/assets/85662c32-4bba-41a7-956c-17bacda0afd5)
+
+![image](https://github.com/user-attachments/assets/7af3336e-0f2d-4f66-ab07-67e75aaf2fec)
+
+![image](https://github.com/user-attachments/assets/9a6fb791-a22e-445b-bdf8-7cf5b28ee10f)
+
